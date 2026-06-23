@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <title>Sample Test Dataset</title>
+  <abstract>Point shapefile with 10 features for testing export scripts.</abstract>
+  <contact>Test User</contact>
+  <purpose>Testing CSV and JSON export code.</purpose>
+</metadata>
