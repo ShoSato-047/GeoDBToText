@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<metadata xml:lang="en">
+	<Esri>
+		<CreaDate>20260624</CreaDate>
+		<CreaTime>13294700</CreaTime>
+		<ArcGISFormat>1.0</ArcGISFormat>
+		<SyncOnce>FALSE</SyncOnce>
+		<DataProperties><itemProps><itemName Sync="TRUE">Peatland_Watershed_Protection_Areas_(WPAs)</itemName><imsContentType Sync="TRUE">002</imsContentType><nativeExtBox><westBL Sync="TRUE">286611.134700</westBL><eastBL Sync="TRUE">601031.400500</eastBL><southBL Sync="TRUE">5204520.843000</southBL><northBL Sync="TRUE">5431524.711800</northBL><exTypeCode Sync="TRUE">1</exTypeCode></nativeExtBox><itemSize Sync="TRUE">0.036</itemSize><itemLocation><linkage Sync="TRUE">file://\\gssfilesrv1\GSS\aa_GSS_Student_Engagement_Training\Sho\Sample_Data\Peatland_Watershed_Protection_Areas_(WPAs)\Peatland_Watershed_Protection_Areas_(WPAs).shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><coordRef><type Sync="TRUE">Projected</type><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><csUnits Sync="TRUE">Linear Unit: Meter (1.000000)</csUnits><projcsn Sync="TRUE">NAD_1983_UTM_Zone_15N</projcsn><peXml Sync="TRUE">&lt;ProjectedCoordinateSystem xsi:type='typens:ProjectedCoordinateSystem' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xs='http://www.w3.org/2001/XMLSchema' xmlns:typens='http://www.esri.com/schemas/ArcGIS/3.7.0'&gt;&lt;WKT&gt;PROJCS[&amp;quot;NAD_1983_UTM_Zone_15N&amp;quot;,GEOGCS[&amp;quot;GCS_North_American_1983&amp;quot;,DATUM[&amp;quot;D_North_American_1983&amp;quot;,SPHEROID[&amp;quot;GRS_1980&amp;quot;,6378137.0,298.257222101]],PRIMEM[&amp;quot;Greenwich&amp;quot;,0.0],UNIT[&amp;quot;Degree&amp;quot;,0.0174532925199433]],PROJECTION[&amp;quot;Transverse_Mercator&amp;quot;],PARAMETER[&amp;quot;False_Easting&amp;quot;,500000.0],PARAMETER[&amp;quot;False_Northing&amp;quot;,0.0],PARAMETER[&amp;quot;Central_Meridian&amp;quot;,-93.0],PARAMETER[&amp;quot;Scale_Factor&amp;quot;,0.9996],PARAMETER[&amp;quot;Latitude_Of_Origin&amp;quot;,0.0],UNIT[&amp;quot;Meter&amp;quot;,1.0],AUTHORITY[&amp;quot;EPSG&amp;quot;,26915]]&lt;/WKT&gt;&lt;XOrigin&gt;-5120900&lt;/XOrigin&gt;&lt;YOrigin&gt;-9998100&lt;/YOrigin&gt;&lt;XYScale&gt;450445547.3910538&lt;/XYScale&gt;&lt;ZOrigin&gt;-100000&lt;/ZOrigin&gt;&lt;ZScale&gt;10000&lt;/ZScale&gt;&lt;MOrigin&gt;-100000&lt;/MOrigin&gt;&lt;MScale&gt;10000&lt;/MScale&gt;&lt;XYTolerance&gt;0.001&lt;/XYTolerance&gt;&lt;ZTolerance&gt;0.001&lt;/ZTolerance&gt;&lt;MTolerance&gt;0.001&lt;/MTolerance&gt;&lt;HighPrecision&gt;true&lt;/HighPrecision&gt;&lt;WKID&gt;26915&lt;/WKID&gt;&lt;LatestWKID&gt;26915&lt;/LatestWKID&gt;&lt;/ProjectedCoordinateSystem&gt;</peXml></coordRef></DataProperties><SyncDate>20260624</SyncDate><SyncTime>13294700</SyncTime><ModDate>20260624</ModDate><ModTime>13294700</ModTime></Esri>
+	<mdChar>
+		<CharSetCd value="004"/>
+	</mdChar>
+	<mdHrLv>
+		<ScopeCd value="005"/>
+	</mdHrLv>
+	<mdContact>
+		<rpIndName>Kelly Randall</rpIndName>
+		<rpOrgName>Minnesota DNR - Ecological and Water Resources</rpOrgName>
+		<rpPosName>SNA Outreach Coordinator</rpPosName>
+		<rpCntInfo>
+			<cntPhone>
+				<voiceNum>651-259-5070</voiceNum>
+			</cntPhone>
+			<cntAddress addressType="both">
+				<delPoint>500 Lafayette Rd</delPoint>
+				<city>Saint Paul</city>
+				<adminArea>MN</adminArea>
+				<postCode>55155</postCode>
+				<eMailAdd>kelly.randall@state.mn.us</eMailAdd>
+			</cntAddress>
+		</rpCntInfo>
+		<role>
+			<RoleCd value="007"/>
+		</role>
+	</mdContact>
+	<mdDateSt>20260304</mdDateSt>
+	<mdStanName>ArcGIS Metadata</mdStanName>
+	<mdStanVer>1.0</mdStanVer>
+	<dataIdInfo>
+		<idCitation>
+			<resTitle>Peatland Watershed Protection Areas (WPAs)</resTitle>
+			<date>
+				<pubDate>2026-03-04</pubDate>
+			</date>
+			<citRespParty>
+				<rpOrgName>Minnesota Department of Natural Resources (DNR)<!-- WARNING: translation from FGDC is ambiguous, this may require correction --></rpOrgName>
+				<role>
+					<RoleCd value="010"/>
+				</role>
+			</citRespParty>
+			<presForm><PresFormCd value="005" Sync="TRUE"></PresFormCd></presForm></idCitation>
+		<idAbs>This dataset represents the Peatland Watershed Protection Areas (WPAs) associated with Minnesota's 18 Peatland Scientific and Natural Areas (SNAs). WPAs were delineated in the early-mid 1980s as part of the Protection of Ecologically Significant Peatlands in Minnesota project and are referenced in Minnesota Rules 6132.2000 as areas where mining is restricted. The boundaries in this shapefile were likely digitized in 2007 from the original hand drawn maps contained in the 1984 peatland report.Metadata PDFDownloadData DownloadDownloadGeopackageDownload</idAbs>
+		<idPurp>WPAs serve as protective buffers around peatland core areas to minimize hydrologic and ecological impacts from adjacent land uses. This layer supports planning, permitting, ecological assessment, and peatland protection work across the Department of Natural Resources. It should not be used for regulatory purposes.
+
+Statutory Context
+• The Minnesota Peatland Protection Act (Minn. Stat. 84.035-84.036) lists Peatland SNAs by county but does not include legal descriptions or reference WPAs.
+• WPAs are recognized in Minn. R. 6132.2000, Subp. 4(C), which restricts mining within WPAs and incorporates the 1984 peatland report by reference as the authoritative source for WPAs. This report also explicitly states that peat mining is prohibited within WPAs.
+• The Minnesota State Law Library holds a DNR volume titled "Legal description and maps of peatland protection management areas" (Dec. 3, 1984), which appears to contain the legal descriptions referenced (but not included) in the published 1984 report.
+</idPurp>
+		<idStatus>
+			<ProgCd value="001"/>
+		</idStatus>
+		<idPoC>
+			<rpIndName>Kelly Randall</rpIndName>
+			<rpOrgName>Minnesota DNR - Ecological and Water Resources</rpOrgName>
+			<rpPosName>SNA Outreach Coordinator</rpPosName>
+			<rpCntInfo>
+				<cntPhone>
+					<voiceNum>651-259-5070</voiceNum>
+				</cntPhone>
+				<cntAddress addressType="unknown">
+					<delPoint>500 Lafayette Rd</delPoint>
+					<city>Saint Paul</city>
+					<adminArea>MN</adminArea>
+					<postCode>55155</postCode>
+					<eMailAdd>kelly.randall@state.mn.us</eMailAdd>
+				</cntAddress>
+			</rpCntInfo>
+			<role>
+				<RoleCd value="007"/>
+			</role>
+		</idPoC>
+		<resMaint>
+			<maintFreq>
+				<MaintFreqCd value="011"/>
+			</maintFreq>
+		</resMaint>
+		<graphOver>
+			<bgFileName>https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_watershed_protection_areas/metadata/preview.jpg</bgFileName>
+		</graphOver>
+		<placeKeys>
+			<keyword>Minnesota, MN</keyword>
+		</placeKeys>
+		<themeKeys>
+			<keyword>peatland, SNA, water</keyword>
+		</themeKeys>
+		<searchKeys>
+			<keyword>peatland, SNA, water</keyword>
+			<keyword>Minnesota, MN</keyword>
+		</searchKeys>
+		<resConst>
+			<Consts><useLimit>• Not suitable for parcel level regulatory determinations.
+• Suitable for planning, ecological assessments and coarse-scale, landscape-level analysis.
+• Consult the 1984 report and legal descriptions for any questions surrounding original proposed and current boundaries appearing in the shapefile (2007).
+• Users should be aware of the historical and legislative constraints that shaped these boundaries.
+</useLimit>
+			</Consts>
+		</resConst>
+		<dataExt>
+			<geoEle>
+				<GeoBndBox>
+					<exTypeCode>true</exTypeCode>
+					<westBL>-97.23</westBL>
+					<eastBL>-89.53</eastBL>
+					<northBL>49.37</northBL>
+					<southBL>43.5</southBL>
+				</GeoBndBox>
+			</geoEle>
+		</dataExt>
+		<dataExt>
+			<exDesc>Origin and Lineage
+• 1980-1984: WPA and SNA boundaries were hand drawn on USGS 7.5' quadrangles by Natural Heritage Program staff, led by Norm Aaseng, with input from Barbara Coffin, Jon Almendinger, and University of Minnesota collaborators (e.g., Paul Glaser, Jan Janssen).
+• Boundaries were constrained by legislative requirements to follow 40 acre parcel lines (or half forties), resulting in diagonal and triangular shapes. Some ecological boundaries were adjusted to avoid merchantable timber due to internal and industry pressures.
+• WPAs were not intended to represent formal watershed boundaries; they reflect best available understanding of contributing hydrology at the time.
+• 2007: The hand drawn WPA boundaries were digitized into GIS. No formal metadata or methods documentation from the digitizing process has been located.
+• 2025-2026 review: All WPA shapefiles circulating internally were found to be identical. A full comparison of all 18 WPA boundaries against the 1984 report maps shows near perfect agreement, with minor deviations noted (e.g., smoothing at Wawina). The WPA boundaries for Lost Lake match the 1984 report; the SNA boundary there appears to have been expanded after 1984.</exDesc>
+			<tempEle>
+				<TempExtent>
+					<exTemp>
+						<TM_Instant>
+							<tmPosition>2026-03-04</tmPosition>
+						</TM_Instant>
+					</exTemp>
+				</TempExtent>
+			</tempEle>
+			<geoEle/></dataExt>
+		<suppInfo>Statewide</suppInfo>
+		<envirDesc Sync="TRUE">Microsoft Windows 10 Version 10.0 (Build 26200) ; Esri ArcGIS 13.7.0.1901</envirDesc><dataLang><languageCode value="eng" Sync="TRUE"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></dataLang><spatRpType><SpatRepTypCd value="001" Sync="TRUE"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="search"><exTypeCode Sync="TRUE">1</exTypeCode><westBL Sync="TRUE">-95.917596</westBL><eastBL Sync="TRUE">-91.617903</eastBL><northBL Sync="TRUE">49.036602</northBL><southBL Sync="TRUE">46.959847</southBL></GeoBndBox></geoEle></dataExt></dataIdInfo>
+	<dqInfo>
+		<dqScope>
+			<scpLvl>
+				<ScopeCd value="005"/>
+			</scpLvl>
+		</dqScope>
+		<report type="DQQuanAttAcc">
+			<measDesc>The 2007 digitized boundaries closely match the 1984 hand drawn maps.
+WPAs are ecologically informed approximations, not hydrologically modeled watersheds.
+Some township range section labels in the 1984 report are difficult to read; digitizing reflects best interpretation of the original maps.
+Users should consult the 1984 report and the 1984 legal description volume (available at the Minnesota State Law Library) for authoritative boundary documentation.
+</measDesc>
+		</report>
+		<dataLineage>
+			<prcStep>
+				<stepDesc>Origin and Lineage
+•	1980-1984: WPA and SNA boundaries were hand drawn on USGS 7.5' quadrangles by Natural Heritage Program staff, led by Norm Aaseng, with input from Barbara Coffin, Jon Almendinger, and University of Minnesota collaborators (e.g., Paul Glaser, Jan Janssen).
+•	Boundaries were constrained by legislative requirements to follow 40 acre parcel lines (or half forties), resulting in diagonal and triangular shapes. Some ecological boundaries were adjusted to avoid merchantable timber due to internal and industry pressures.
+•	WPAs were not intended to represent formal watershed boundaries; they reflect best available understanding of contributing hydrology at the time.
+•	2007: The hand drawn WPA boundaries were digitized into GIS. No formal metadata or methods documentation from the digitizing process has been located.
+•	2025-2026 review: All WPA shapefiles circulating internally were found to be identical. A full comparison of all 18 WPA boundaries against the 1984 report maps shows near perfect agreement, with minor deviations noted (e.g., smoothing at Wawina). The WPA boundaries for Lost Lake match the 1984 report; the SNA boundary there appears to have been expanded after 1984.
+</stepDesc>
+			</prcStep>
+		</dataLineage>
+	</dqInfo>
+	<eainfo>
+		<detailed Name="Peatland_Watershed_Protection_Areas_(WPAs)">
+			<enttyp>
+				<enttypl>watershed_protection_area</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">21</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">objectid</attrlabl><attalias Sync="TRUE">objectid</attalias><attrtype Sync="TRUE">SmallInteger</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">2</atprecis><attscale Sync="TRUE">0</attscale></attr><attr>
+				<attrlabl>SNA_NAME</attrlabl>
+				<attrdef>Unit Name of the associated Scientific and Natural Area</attrdef>
+				<attalias Sync="TRUE">sna_name</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">32</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>TYPE</attrlabl>
+				<attrdef>Peatland Watershed Protection Area</attrdef>
+				<attalias Sync="TRUE">type</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">34</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>ABBREV</attrlabl>
+				<attrdef>Abbreviation</attrdef>
+				<attalias Sync="TRUE">abbrev</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>ACRES</attrlabl>
+				<attrdef>Acres</attrdef>
+				<attalias Sync="TRUE">acres</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">24</attwidth><atprecis Sync="TRUE">23</atprecis><attscale Sync="TRUE">15</attscale></attr>
+			<attr><attrlabl Sync="TRUE">shape_Leng</attrlabl><attalias Sync="TRUE">shape_Leng</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">24</attwidth><atprecis Sync="TRUE">23</atprecis><attscale Sync="TRUE">15</attscale></attr><attr><attrlabl Sync="TRUE">shape_Area</attrlabl><attalias Sync="TRUE">shape_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">24</attwidth><atprecis Sync="TRUE">23</atprecis><attscale Sync="TRUE">15</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">Esri</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed>
+	</eainfo>
+	<mdLang><languageCode value="eng" Sync="TRUE"></languageCode><countryCode value="USA" Sync="TRUE"></countryCode></mdLang><distInfo><distFormat><formatName Sync="TRUE">Shapefile</formatName></distFormat><distTranOps><transSize Sync="TRUE">0.036</transSize></distTranOps></distInfo><mdHrLvName Sync="TRUE">dataset</mdHrLvName><refSysInfo><RefSystem><refSysID><identCode code="26915" Sync="TRUE"></identCode><idCodeSpace Sync="TRUE">EPSG</idCodeSpace><idVersion Sync="TRUE">6.11(3.0.1)</idVersion></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><geometObjs Name="Peatland_Watershed_Protection_Areas_(WPAs)"><geoObjTyp><GeoObjTypCd value="002" Sync="TRUE"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">21</geoObjCnt></geometObjs><topLvl><TopoLevCd value="001" Sync="TRUE"></TopoLevCd></topLvl></VectSpatRep></spatRepInfo><spdoinfo><ptvctinf><esriterm Name="Peatland_Watershed_Protection_Areas_(WPAs)"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom code="4" Sync="TRUE"></efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">21</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf></spdoinfo></metadata>
