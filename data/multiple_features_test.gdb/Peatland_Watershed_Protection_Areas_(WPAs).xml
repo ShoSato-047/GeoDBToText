@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20260304</pubdate>
+                <title>Peatland Watershed Protection Areas (WPAs)</title>
+                <pubinfo>
+                    <publish>Minnesota Department of Natural Resources (DNR)</publish>
+                </pubinfo>
+                <onlink>http://gisdata.mn.gov/dataset/bdry-watershed-protection-areas</onlink>
+                <onlink>https://operations.gis.data.mn.gov/api/publicdownload/download/657/bdry_watershed_protection_areas.gpkg</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This dataset represents the Peatland Watershed Protection Areas (WPAs) associated with Minnesota's 18 Peatland Scientific and Natural Areas (SNAs). WPAs were delineated in the early-mid 1980s as part of the Protection of Ecologically Significant Peatlands in Minnesota project and are referenced in Minnesota Rules 6132.2000 as areas where mining is restricted. The boundaries in this shapefile were likely digitized in 2007 from the original hand drawn maps contained in the 1984 peatland report.Metadata PDFDownloadData DownloadDownloadGeopackageDownload</abstract>
+            <purpose>WPAs serve as protective buffers around peatland core areas to minimize hydrologic and ecological impacts from adjacent land uses. This layer supports planning, permitting, ecological assessment, and peatland protection work across the Department of Natural Resources. It should not be used for regulatory purposes.
+
+Statutory Context
+• The Minnesota Peatland Protection Act (Minn. Stat. 84.035-84.036) lists Peatland SNAs by county but does not include legal descriptions or reference WPAs.
+• WPAs are recognized in Minn. R. 6132.2000, Subp. 4(C), which restricts mining within WPAs and incorporates the 1984 peatland report by reference as the authoritative source for WPAs. This report also explicitly states that peat mining is prohibited within WPAs.
+• The Minnesota State Law Library holds a DNR volume titled "Legal description and maps of peatland protection management areas" (Dec. 3, 1984), which appears to contain the legal descriptions referenced (but not included) in the published 1984 report.
+</purpose>
+            <supplinf>Statewide</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20260304</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>Origin and Lineage
+• 1980-1984: WPA and SNA boundaries were hand drawn on USGS 7.5' quadrangles by Natural Heritage Program staff, led by Norm Aaseng, with input from Barbara Coffin, Jon Almendinger, and University of Minnesota collaborators (e.g., Paul Glaser, Jan Janssen).
+• Boundaries were constrained by legislative requirements to follow 40 acre parcel lines (or half forties), resulting in diagonal and triangular shapes. Some ecological boundaries were adjusted to avoid merchantable timber due to internal and industry pressures.
+• WPAs were not intended to represent formal watershed boundaries; they reflect best available understanding of contributing hydrology at the time.
+• 2007: The hand drawn WPA boundaries were digitized into GIS. No formal metadata or methods documentation from the digitizing process has been located.
+• 2025-2026 review: All WPA shapefiles circulating internally were found to be identical. A full comparison of all 18 WPA boundaries against the 1984 report maps shows near perfect agreement, with minor deviations noted (e.g., smoothing at Wawina). The WPA boundaries for Lost Lake match the 1984 report; the SNA boundary there appears to have been expanded after 1984.</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>None planned</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-97.23</westbc>
+                <eastbc>-89.53</eastbc>
+                <northbc>49.37</northbc>
+                <southbc>43.5</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>peatland, SNA, water</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>Minnesota, MN</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>• Not suitable for parcel level regulatory determinations.
+• Suitable for planning, ecological assessments and coarse-scale, landscape-level analysis.
+• Consult the 1984 report and legal descriptions for any questions surrounding original proposed and current boundaries appearing in the shapefile (2007).
+• Users should be aware of the historical and legislative constraints that shaped these boundaries.
+</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Minnesota DNR - Ecological and Water Resources</cntorg>
+                    <cntper>Kelly Randall</cntper>
+                </cntorgp>
+                <cntpos>SNA Outreach Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>unknown</addrtype>
+                    <address>500 Lafayette Rd</address>
+                    <city>Saint Paul</city>
+                    <state>MN</state>
+                    <postal>55155</postal>
+                </cntaddr>
+                <cntvoice>651-259-5070</cntvoice>
+                <cntemail>kelly.randall@state.mn.us</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <browse>
+            <browsen>https://resources.gisdata.mn.gov/pub/gdrs/data/pub/us_mn_state_dnr/bdry_watershed_protection_areas/metadata/preview.jpg</browsen>
+        </browse>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>The 2007 digitized boundaries closely match the 1984 hand drawn maps.
+WPAs are ecologically informed approximations, not hydrologically modeled watersheds.
+Some township range section labels in the 1984 report are difficult to read; digitizing reflects best interpretation of the original maps.
+Users should consult the 1984 report and the 1984 legal description volume (available at the Minnesota State Law Library) for authoritative boundary documentation.
+</attraccr>
+        </attracc>
+        <lineage>
+            <procstep>
+                <procdesc>Origin and Lineage
+•	1980-1984: WPA and SNA boundaries were hand drawn on USGS 7.5' quadrangles by Natural Heritage Program staff, led by Norm Aaseng, with input from Barbara Coffin, Jon Almendinger, and University of Minnesota collaborators (e.g., Paul Glaser, Jan Janssen).
+•	Boundaries were constrained by legislative requirements to follow 40 acre parcel lines (or half forties), resulting in diagonal and triangular shapes. Some ecological boundaries were adjusted to avoid merchantable timber due to internal and industry pressures.
+•	WPAs were not intended to represent formal watershed boundaries; they reflect best available understanding of contributing hydrology at the time.
+•	2007: The hand drawn WPA boundaries were digitized into GIS. No formal metadata or methods documentation from the digitizing process has been located.
+•	2025-2026 review: All WPA shapefiles circulating internally were found to be identical. A full comparison of all 18 WPA boundaries against the 1984 report maps shows near perfect agreement, with minor deviations noted (e.g., smoothing at Wawina). The WPA boundaries for Lost Lake match the 1984 report; the SNA boundary there appears to have been expanded after 1984.
+</procdesc>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>watershed_protection_area</enttypl>
+            </enttyp>
+            <attr>
+                <attrlabl>SNA_NAME</attrlabl>
+                <attrdef>Unit Name of the associated Scientific and Natural Area</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>TYPE</attrlabl>
+                <attrdef>Peatland Watershed Protection Area</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>ABBREV</attrlabl>
+                <attrdef>Abbreviation</attrdef>
+            </attr>
+            <attr>
+                <attrlabl>ACRES</attrlabl>
+                <attrdef>Acres</attrdef>
+            </attr>
+        </detailed>
+    </eainfo>
+    <metainfo>
+        <metd>20260304</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Minnesota DNR - Ecological and Water Resources</cntorg>
+                    <cntper>Kelly Randall</cntper>
+                </cntorgp>
+                <cntpos>SNA Outreach Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>500 Lafayette Rd</address>
+                    <city>Saint Paul</city>
+                    <state>MN</state>
+                    <postal>55155</postal>
+                </cntaddr>
+                <cntvoice>651-259-5070</cntvoice>
+                <cntemail>kelly.randall@state.mn.us</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
