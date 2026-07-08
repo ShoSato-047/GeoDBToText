@@ -27,7 +27,7 @@ PROJCS["NAD_1983_Albers",GEOGCS["GCS_North_American_1983",DATUM["D_North_America
 
 Purpose:
 This file is a human and machine readable equivalent of the layer
->>>Y:/aa_GSS_Student_Engagement_Training/Sho/GeoDBToText/data/multiple_features_test.gdb\winona_lake.shp
+>>>winona_lake.shp
 exported from the ESRI personal geodatabase
 >>>multiple_features_test.gdb
 and was generated to back up and archive the parent dataset
