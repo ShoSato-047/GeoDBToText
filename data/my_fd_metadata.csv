@@ -1,0 +1,8 @@
+FeatureDataset Metadata
+
+Title,my feature dataset
+Tags,feature dataset
+Summary,"A feature dataset is a container that holds related data, but its exact meaning depends on your field."
+Description,"In Geographic Information Systems (GIS), it is a collection of spatial data (feature classes) that share the same coordinate system and geographic area. In Machine Learning and Data Science, it refers to the collection of individual variables or properties (features) used to train a predictive model"
+Credits,
+Use Limitations,

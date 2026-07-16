@@ -1,0 +1,8 @@
+Workspace Metadata
+
+Title,test
+Tags,test
+Summary,"A Geodatabase is a proprietary GIS file format developed in the late 1990s by Esri (a GIS software vendor) to represent, store, and organize spatial datasets within a geographic information system.[1][2] A geodatabase is both a logical data model and the physical implementation of that logical model in several proprietary file formats released during the 2000s.[3] The geodatabase design is based on the spatial database model for storing spatial data in relational and object-relational databases.[4] Given the dominance of Esri in the GIS industry, the term ""geodatabase"" is used by some as a generic trademark for any spatial database, regardless of platform or design."
+Description,"Geodatabases, being a common format for GIS datasets, have applications anywhere GIS are widely employed. These applications are so basic oftentimes researchers do not mention their use in studies. There are several fields where their use is extensively documented, including public health, crime analysis, and resource management."
+Credits,Esri
+Use Limitations,"The ability to read and write geodatabase format is not limited to Esri products; other software are also able to read & write this format, including:ENVI – Remote sensing software owned by Harris Geospatial[42]ERDAS IMAGINE – Remote sensing company owned by Hexagon AB[43]GeoDa – Free geovisualization and analysis softwareQGIS – Geographic information system software[44]"
